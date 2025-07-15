@@ -4,7 +4,7 @@ public class Variables {
 
 	public static void main(String[] args) {
 		int age = 22;
-		String name = "milind";
+		String name = "milind nipurte";
 		double val = 12.22;
 		
 		System.out.println(age);
